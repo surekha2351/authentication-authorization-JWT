@@ -1,0 +1,9 @@
+cors => to access backend to the frontend without errors.
+mongoose => data storage
+JWT : for generating tokens > for to maintain the secured routes.. platform ni access cheyadaniki login adegala cheyadaniki tokens.
+react-router-dom => using for developing multipage applications.
+"mongodb+srv://yarrabattisurekha:surekha@auth.fetw369.mongodb.net/testprojects"
+    "client":"npm start --prefix client",   
+    "dev" : "concurrently \"npm run server\" \"npm run client\" "  >> used to execute both backend and frontend code
+
+   
